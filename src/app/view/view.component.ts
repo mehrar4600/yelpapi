@@ -17,6 +17,10 @@ export class ViewComponent implements OnInit {
   }
 
   ngOnInit() {
+    // console.log(this.svc.printToConsole())
+    // this.svc.printToConsole().subscribe(res => {
+    //   console.log(res)
+    // })
 
   }
 

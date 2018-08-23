@@ -10,6 +10,16 @@ h1{
             color:white;
             font-family: cursive;  
             border-radius: 25px; 
+            padding:10px;
+}
+.flower{
+    position: relative;
+    float:right;
+}
+h3{
+    font-size: 35px;
+    text-align: center;
+    color:white;
 }
 .bt{
     font-size: 15px;    

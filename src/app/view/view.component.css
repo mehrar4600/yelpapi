@@ -10,6 +10,16 @@ h1{
             color:white;
             font-family: cursive;   
 }
+.bt{
+    font-size: 15px;    
+    background-color: rgb(100,148,79);
+    color:white;
+}
+
+.in{
+    font-size: 15px;
+}
+
 .ss{
     text-align: center;
     color:white;

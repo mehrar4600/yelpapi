@@ -8,7 +8,8 @@ h1{
    height:auto;
             min-height:90.5vh; */
             color:white;
-            font-family: cursive;   
+            font-family: cursive;  
+            border-radius: 25px; 
 }
 .bt{
     font-size: 15px;    
